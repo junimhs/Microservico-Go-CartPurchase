@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "uuid": "1",
+      "product": "Bicicleta",
+      "price": "500"
+    },
+    {
+      "uuid": "2",
+      "product": "Smart TV",
+      "price": "2500"
+    },
+    {
+      "uuid": "3",
+      "product": "PS4",
+      "price": "900"
+    },
+    {
+      "uuid": "4",
+      "product": "Geladeira",
+      "price": "1500"
+    },
+    {
+      "uuid": "5",
+      "product": "Fogao",
+      "price": "350"
+    }
+  ]
+}

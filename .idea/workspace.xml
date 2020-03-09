@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75b6105b-2e5d-426f-907c-7c46bca0bea0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="ProjectId" id="1YtDbyXepoh9zZrbka7DpG2gwqn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Product/Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="buildCliOptions" value="" />
+          <option name="command" value="" />
+          <option name="containerName" value="" />
+          <option name="entrypoint" value="" />
+          <option name="imageTag" value="" />
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="Product/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.Product/Dockerfile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="25" width="800" height="672" key="#GOPATH" timestamp="1583763484802">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="278" y="25" width="800" height="672" key="#GOPATH/0.0.1366.728/1366.0.1600.900@0.0.1366.728" timestamp="1583763484802" />
+    <state x="278" y="25" width="800" height="672" key="#GOROOT" timestamp="1583753128418">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="278" y="25" width="800" height="672" key="#GOROOT/0.0.1366.728/1366.0.1600.900@0.0.1366.728" timestamp="1583753128418" />
+    <state x="278" y="25" width="800" height="672" key="#Go_Modules_(vgo)" timestamp="1583753151179">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="278" y="25" width="800" height="672" key="#Go_Modules_(vgo)/0.0.1366.728/1366.0.1600.900@0.0.1366.728" timestamp="1583753151179" />
+    <state x="278" y="25" width="800" height="672" key="#Inspections" timestamp="1583754314280">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="278" y="25" width="800" height="672" key="#Inspections/0.0.1366.728/1366.0.1600.900@0.0.1366.728" timestamp="1583754314280" />
+    <state x="392" y="0" width="572" height="723" key="#Product/Dockerfile" timestamp="1583755764880">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="392" y="0" width="572" height="723" key="#Product/Dockerfile/0.0.1366.728/1366.0.1600.900@0.0.1366.728" timestamp="1583755764880" />
+    <state x="141" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583754097013">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="141" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1600.900@0.0.1366.728" timestamp="1583754097013" />
+    <state x="461" y="119" width="424" height="479" key="FileChooserDialogImpl" timestamp="1583763483294">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="461" y="119" width="424" height="479" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1600.900@0.0.1366.728" timestamp="1583763483294" />
+  </component>
+</project>
